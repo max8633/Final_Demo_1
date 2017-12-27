@@ -102,7 +102,7 @@ android {
     buildToolsVersion "23.0.1"
 
     defaultConfig {
-        applicationId "com.invertase.rnfirebasestarter"
+        applicationId "com.ncue.restaurant"
         minSdkVersion 16
         targetSdkVersion 22
         versionCode 1

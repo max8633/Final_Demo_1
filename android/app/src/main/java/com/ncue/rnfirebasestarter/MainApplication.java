@@ -1,4 +1,4 @@
-package com.invertase.rnfirebasestarter;
+package com.ncue.restaurant;
 
 import android.app.Application;
 
